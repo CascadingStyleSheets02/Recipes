@@ -1,0 +1,43 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: yellow;
+    color: black;
+    margin: 0%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+ul, ol {
+    padding-left: 2rem;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration-color: rgb(0, 0, 0);
+}
+
+a:hover {
+    color: red;
+}
+
+p {
+    font-size: 18px;
+}
+
+.back-link {
+    display: block;
+    margin: 1rem 0;
+    text-align: center;
+}
